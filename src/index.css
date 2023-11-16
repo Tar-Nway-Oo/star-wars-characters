@@ -1,0 +1,8 @@
+body {
+   background-color: rgb(92, 90, 88);
+   color: rgb(250, 249, 247);
+}
+.card {
+   max-width: 500px;
+}
+
